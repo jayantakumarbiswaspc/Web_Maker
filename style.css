@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 11px;
+}
+header{
+    height: 100px;
+    width: 100%;
+    background-color: red;
+}
+main{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(132, 132, 132);
+}
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(157, 255, 0);
+}
